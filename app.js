@@ -6,7 +6,7 @@ const ApiError = require("./app/api-error");
 const app = express();
 const contactsRouter = require("./app/routes/contact.route");
 
-
+//bj
 app.use(cors());
 app.use(express.json());
 
